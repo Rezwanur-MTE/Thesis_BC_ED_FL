@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 auto;
+}
+.container2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.4rem;
+  color: #efefefc6;
+}
+
+.h1 {
+  font-size: 2rem;
+  margin: 1rem;
+  padding: 1rem 2rem;
+  border-radius: 40px;
+  color: #fff;
+  border: 1px solid rgba(64, 198, 232, 0.978);
+}
+
+.link {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.2rem;
+  margin: 1rem;
+  padding: 1rem 2rem;
+  border-radius: 40px;
+  border: 1px solid rgba(64, 198, 232, 0.978);
+  /* background: linear-gradient(90deg, #455573, #6f93d0); */
+  transition: all 0.3s ease-in-out;
+  text-align: center;
+}

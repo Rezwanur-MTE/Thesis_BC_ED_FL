@@ -1,0 +1,15 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body{
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(90deg, #1E3B70, #29539B);
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 8fr;
+    overflow: hidden;
+}
